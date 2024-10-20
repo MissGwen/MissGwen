@@ -18,8 +18,8 @@
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=MissGwen&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-    <img align="left" width="250" src="./image/rspress-icon.png"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MissGwen&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+    <img align="right" width="250" src="./image/rspress-icon.png"/>
 </div>
 
 ### Language
