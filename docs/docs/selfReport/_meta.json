@@ -1,0 +1,12 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "简历"
+  },
+  {
+    "type": "file",
+    "name": "proxy",
+    "label": "electron session proxy"
+  }
+]

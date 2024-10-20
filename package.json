@@ -1,0 +1,13 @@
+{
+  "name": "miss_gwen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install:docs": "pnpm install -C docs",
+    "build:docs": "pnpm run -C docs build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

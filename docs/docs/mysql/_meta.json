@@ -1,0 +1,27 @@
+[
+  {
+    "type": "file",
+    "name": "DDL",
+    "label": "DDL"
+  },
+  {
+    "type": "file",
+    "name": "DML",
+    "label": "DML"
+  },
+  {
+    "type": "file",
+    "name": "DCL",
+    "label": "DCL"
+  },
+  {
+    "type": "file",
+    "name": "function",
+    "label": "Function"
+  },
+  {
+    "type": "file",
+    "name": "constraint",
+    "label": "约束"
+  }
+]

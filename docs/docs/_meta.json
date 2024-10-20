@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Rust Notes",
+    "link": "/rustNotes/",
+    "activeMatch": "/rustNotes/"
+  },
+  {
+    "text": "Interview",
+    "link": "/interview/html",
+    "activeMatch": "/interview/html"
+  },
+  {
+    "text": "MySQL",
+    "link": "/mysql/DDL",
+    "activeMatch": "/mysql/DDL"
+  },
+  {
+    "text": "My Story",
+    "link": "/selfReport/",
+    "activeMatch": "/selfReport/"
+  }
+]

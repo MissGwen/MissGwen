@@ -1,0 +1,42 @@
+[
+  {
+    "type": "file",
+    "name": "html",
+    "label": "HTML"
+  },
+  {
+    "type": "file",
+    "name": "css",
+    "label": "CSS"
+  },
+  {
+    "type": "file",
+    "name": "js",
+    "label": "JavaScript"
+  },
+  {
+    "type": "file",
+    "name": "ts",
+    "label": "TypeScript"
+  },
+  {
+    "type": "file",
+    "name": "browser",
+    "label": "浏览器&网络"
+  },
+  {
+    "type": "file",
+    "name": "engineering",
+    "label": "工程化"
+  },
+  {
+    "type": "file",
+    "name": "vue",
+    "label": "Vue"
+  },
+  {
+    "type": "file",
+    "name": "react",
+    "label": "React"
+  }
+]
