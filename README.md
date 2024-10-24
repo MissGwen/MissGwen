@@ -17,10 +17,8 @@
 
 ---
 
-<div align="center">
-    <img height=170 src="https://github-readme-stats.vercel.app/api?username=MissGwen&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&rank_icon=github&hide=contribs"/>
-    <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissGwen&layout=compact"/>
-</div>
+<img height=170 src="https://github-readme-stats.vercel.app/api?username=MissGwen&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&rank_icon=github&hide=contribs"/>
+<img align="right" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissGwen&layout=compact"/>
 
 ### Language
 
