@@ -3,17 +3,16 @@
 ✨ 我是一名前端偏全栈开发者
 ✨ I want to be an interesting person
 
-<!-- <img align="right" style="width: 100px; height: 100px; border:5px solid #fff;border-radius: 50%;" src="./image/avatar.jpg"/> -->
 <img align="right" width="250" src="./image/rspress-icon.png"/>
 
 - 🎄 I’m currently working on Hangzhou
 - 🦀 I’m currently learning **Rust**
 - 📒 Here are my [Notes](https://missgwen.github.io/MissGwen/)
 - 💬 If you have any questions, you can come to me [Here](https://github.com/MissGwen/MissGwen/issues)
-- ⏱️ A [TimerTask](https://www.npmjs.com/package/timertasks) management tool,hope it helps you.
+- ⏱️ A [TimerTask](https://www.npmjs.com/package/timertasks) management tool and [electron-session-proxy](https://www.npmjs.com/package/electron-session-proxy), hope it helps you.
 - 👇 What I plan to learn in the future
 
-  [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,jenkins,rocket,godot&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,kubernetes,jenkins,rocket,godot&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -22,24 +21,18 @@
     <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissGwen&layout=compact"/>
 </div>
 
-### Language
+### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,rust,go,lua&theme=light)](https://skillicons.dev)
+<img align="right" width="200" src="./image/right.png"/>
 
-### Database
+[![Language](https://skillicons.dev/icons?i=js,ts,rust,go&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=light)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,redis,mongodb&theme=light)](https://skillicons.dev)
 
-### Framework
+[![Framework](https://skillicons.dev/icons?i=vue,react,nextjs,nestjs,electron,tauri&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,nuxtjs,nextjs,nestjs,electron,tauri,flutter&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=tailwindcss,babel,webpack,vite,pnpm,nodejs,prisma,wasm)](https://skillicons.dev)
 
-### Tools
-
-[![My Skills](https://skillicons.dev/icons?i=git,tailwindcss,babel,webpack,vite,rollupjs,pnpm,nodejs,prisma,wasm)](https://skillicons.dev)
-
-### Other
-
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,k8s,nginx&theme=light)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=git,linux,docker,nginx&theme=light)](https://skillicons.dev)
 
 [![Miss Gwen](./image/end.png "这是个图片")]()
