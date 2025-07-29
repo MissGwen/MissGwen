@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Zoe
 
-✨ 我是一名前端偏全栈开发者
-✨ I want to be an interesting person
+✨ 我是一名全栈偏前端开发者
+✨ 想通过努力为 **IT** 行业的发展献出微薄之力
 
 <img align="right" width="250" src="./image/rspress-icon.png"/>
 
@@ -25,7 +25,7 @@
 
 <img align="right" width="200" src="./image/right.png"/>
 
-[![Language](https://skillicons.dev/icons?i=js,ts,rust,go&theme=light)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=js,ts,python,rust,go&theme=light)](https://skillicons.dev)
 
 [![Database](https://skillicons.dev/icons?i=mysql,redis,mongodb&theme=light)](https://skillicons.dev)
 
