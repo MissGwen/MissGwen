@@ -13,7 +13,7 @@
 <table align="center" border="0">
   <tr>
     <td align="left" width="60%">
-      <h3>👋 About Me</h3>
+      <div style="font-size: 16px; font-weight: 600">👋 About Me</div>
       <ul>
         <li>🎄 Based in <b>Hangzhou, China</b></li>
         <li>🦀 Currently learning <b>Rust</b></li>
