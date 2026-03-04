@@ -12,7 +12,7 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="left" width="50%">
+    <td align="left" width="60%">
       <h3>👋 About Me</h3>
       <ul>
         <li>🎄 Based in <b>Hangzhou, China</b></li>
@@ -22,7 +22,7 @@
         <!-- <li>📫 <b>Connect with me:</b> &nbsp; <a href="https://github.com/MissGwen"><img align="middle" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> &nbsp; <a href="https://missgwen.github.io/MissGwen/"><img align="middle" src="https://img.shields.io/badge/Blog-2F74C0?style=flat-square&logo=ghost&logoColor=white" /></a></li> -->
       </ul>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="40%">
       <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/MissGwen/MissGwen/main/image/avatar.jpg&w=150&mask=circle" width="150" alt="Profile" />
     </td>
   </tr>
