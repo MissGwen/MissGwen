@@ -57,7 +57,7 @@
   <img src="https://skillicons.dev/icons?i=electron,tauri,tailwindcss,nodejs,docker,postgresql,redis,linux&theme=light" />
   <br/><br/>
 
-  <sub>🌱 <b>Exploring:</b> Kubernetes, C/C++, Rocket</sub>
+  <sub>🌱 <b>Exploring:</b> C/C++, Microservice, gRPC...</sub>
 
 </div>
 
