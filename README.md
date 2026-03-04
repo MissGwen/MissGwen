@@ -12,18 +12,18 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="left" width="60%">
+    <td align="left" width="50%">
       <h3>👋 About Me</h3>
       <ul>
         <li>🎄 Based in <b>Hangzhou, China</b></li>
         <li>🦀 Currently learning <b>Rust</b></li>
         <li>📒 Check out my <a href="https://missgwen.github.io/MissGwen/"><b>Notes</b></a></li>
         <li>💬 Ask me anything <a href="https://github.com/MissGwen/MissGwen/issues"><b>Here</b></a></li>
-        <li>📫 <b>Connect with me:</b> &nbsp; <a href="https://github.com/MissGwen"><img align="middle" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> &nbsp; <a href="https://missgwen.github.io/MissGwen/"><img align="middle" src="https://img.shields.io/badge/Blog-2F74C0?style=flat-square&logo=ghost&logoColor=white" /></a></li>
+        <!-- <li>📫 <b>Connect with me:</b> &nbsp; <a href="https://github.com/MissGwen"><img align="middle" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> &nbsp; <a href="https://missgwen.github.io/MissGwen/"><img align="middle" src="https://img.shields.io/badge/Blog-2F74C0?style=flat-square&logo=ghost&logoColor=white" /></a></li> -->
       </ul>
     </td>
-    <td align="center" width="40%">
-      <img src="./image/rspress-icon.png" width="200" alt="Profile" />
+    <td align="center" width="50%">
+      <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/MissGwen/MissGwen/main/image/avatar.jpg&w=150&mask=circle" width="150" alt="Profile" />
     </td>
   </tr>
 </table>
@@ -48,10 +48,12 @@
 <div align="center">
 
   **Languages & Frameworks**<br/>
+
   <img src="https://skillicons.dev/icons?i=ts,rust,go,react,vue,nextjs,nestjs&theme=light" />
   <br/><br/>
 
   **Ecosystem & Tools**<br/>
+  
   <img src="https://skillicons.dev/icons?i=electron,tauri,tailwindcss,nodejs,docker,postgresql,redis,linux&theme=light" />
   <br/><br/>
 
