@@ -2,36 +2,36 @@
 pageType: home
 
 hero:
-  name: Coding
-  text: Study Notes
-  tagline: Miss Gwen 🍩🍪
+  name: Miss Gwen
+  text: 技术博客
+  tagline: 以内容沉淀为核心的学习与实践记录
   actions:
     - theme: brand
-      text: Quick Start
-      link: /rustNotes/
+      text: Rust
+      link: /rust-notes/
     - theme: alt
-      text: Github
-      link: https://github.com/MissGwen
+      text: Blog
+      link: /blog/
   image:
     src: /rspress-icon.png
-    alt: Rust Logo
+    alt: Miss Gwen
 features:
-  - title: Blazing fast build speed
-    details: The core compilation module is based on the Rust front-end toolchain, providing a more ultimate development experience.
-    icon: 🏃🏻‍♀️
-  - title: Support for MDX content writing
-    details: MDX is a powerful way to write content, allowing you to use React components in Markdown.
-    icon: 📦
-  - title: Built-in full-text search
-    details: Automatically generates a full-text search index for you during construction, providing out-of-the-box full-text search capabilities.
-    icon: 🎨
-  - title: Simpler I18n solution
-    details: With the built-in I18n solution, you can easily provide multi-language support for documents or components.
-    icon: 🌍
-  - title: Static site generation
-    details: In production, it automatically builds into static HTML files, which can be easily deployed anywhere.
-    icon: 🌈
-  - title: Providing multiple custom capabilities
-    details: Through its extension mechanism, you can easily extend theme UI and build process.
-    icon: 🔥
+  - title: Rust 学习路径
+    details: 围绕语法、数据类型与面试题，持续沉淀 Rust 核心知识与实战要点。
+    icon: 🦀
+  - title: 博客主题分享
+    details: 按主题记录技术分享，覆盖前端工程、架构思考与工具实践。
+    icon: 📝
+  - title: 最近更新
+    details: 首页聚合当前重点方向，帮助快速定位新增内容与阶段成果。
+    icon: 🚀
+  - title: 学习沉淀方法
+    details: 以长期输出驱动输入，把知识转化为结构化、可复用的个人资产。
+    icon: 📚
+  - title: 问题驱动写作
+    details: 从真实开发问题出发，记录排查过程、解决方案与复盘结论。
+    icon: 🔍
+  - title: 代码片段速查
+    details: 提炼高频代码模板与实践片段，方便后续快速复用和查阅。
+    icon: ⚡
 ---

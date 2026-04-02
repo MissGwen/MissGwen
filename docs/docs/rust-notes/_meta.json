@@ -6,7 +6,7 @@
   },
   {
     "type": "file",
-    "name": "dataType",
+    "name": "data-type",
     "label": "数据类型"
   },
   {
