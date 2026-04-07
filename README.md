@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F74C0&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Zoe;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F74C0&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Gwen;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,17 +46,17 @@
 
 <div align="center">
 
-  **Languages & Frameworks**<br/>
+**Languages & Frameworks**<br/>
 
   <img src="https://skillicons.dev/icons?i=ts,rust,go,react,vue,nextjs,nestjs&theme=light" />
   <br/><br/>
 
-  **Ecosystem & Tools**<br/>
-  
+**Ecosystem & Tools**<br/>
+
   <img src="https://skillicons.dev/icons?i=electron,tauri,tailwindcss,nodejs,docker,postgresql,redis,linux&theme=light" />
   <br/><br/>
 
-  <sub>🌱 <b>Exploring:</b> C/C++, Microservice, gRPC...</sub>
+<sub>🌱 <b>Exploring:</b> C/C++, Microservice, gRPC...</sub>
 
 </div>
 
