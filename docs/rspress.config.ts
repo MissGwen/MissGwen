@@ -5,12 +5,10 @@ export default defineConfig({
   root: path.join(__dirname, 'docs'),
   base:'/MissGwen/',
   title: 'Miss Gwen',
-  description: 'Rspack-based Static Site Generator',
+  description: 'A personal tech blog by Miss Gwen, featuring practical notes on Rust, frontend engineering, and architecture.',
   icon: '/rspress-icon.png',
-  logo: {
-    light: '/rspress-light-logo.png',
-    dark: '/rspress-dark-logo.png',
-  },
+  logoText: 'おかえりなさい',
+  logo: '/rspress-logo.png',
   themeConfig: {
     socialLinks: [
       { icon: 'github', mode: 'link', content: 'https://github.com/MissGwen' },
