@@ -3,8 +3,8 @@ pageType: home
 
 hero:
   name: Miss Gwen
-  text: 技术博客
-  tagline: 以内容沉淀为核心的学习与实践记录
+  text: Personal Tech Notes
+  tagline: Practical notes and curated insights from real-world development.
   actions:
     - theme: brand
       text: Rust
@@ -16,22 +16,22 @@ hero:
     src: /rspress-icon.png
     alt: Miss Gwen
 features:
-  - title: Rust 学习路径
-    details: 围绕语法、数据类型与面试题，持续沉淀 Rust 核心知识与实战要点。
+  - title: Rust Learning Path
+    details: Continuously building Rust fundamentals and practical insights around syntax, data types, and interview topics.
     icon: 🦀
-  - title: 博客主题分享
-    details: 按主题记录技术分享，覆盖前端工程、架构思考与工具实践。
+  - title: Topic-Based Blog Posts
+    details: Technical write-ups organized by topic, covering frontend engineering, architecture thinking, and tooling practice.
     icon: 📝
-  - title: 最近更新
-    details: 首页聚合当前重点方向，帮助快速定位新增内容与阶段成果。
+  - title: Recent Updates
+    details: The homepage highlights current focus areas to help you quickly find new content and milestones.
     icon: 🚀
-  - title: 学习沉淀方法
-    details: 以长期输出驱动输入，把知识转化为结构化、可复用的个人资产。
+  - title: Knowledge Accumulation Method
+    details: Use consistent output to drive input, and turn knowledge into structured, reusable personal assets.
     icon: 📚
-  - title: 问题驱动写作
-    details: 从真实开发问题出发，记录排查过程、解决方案与复盘结论。
+  - title: Problem-Driven Writing
+    details: Start from real development issues and document troubleshooting steps, solutions, and retrospectives.
     icon: 🔍
-  - title: 代码片段速查
-    details: 提炼高频代码模板与实践片段，方便后续快速复用和查阅。
+  - title: Quick Code Reference
+    details: Extract frequently used code templates and practical snippets for faster reuse and lookup.
     icon: ⚡
 ---

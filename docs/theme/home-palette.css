@@ -1,0 +1,45 @@
+:where(html:not(.rp-dark)) {
+  --rp-c-brand: #d64ca8;
+  --rp-c-brand-light: #e46cbc;
+  --rp-c-brand-dark: #bc3d95;
+
+  --rp-home-hero-secondary-color: #b47cf5;
+  --rp-home-hero-title-color: transparent;
+  --rp-home-hero-title-bg: linear-gradient(
+    90deg,
+    var(--rp-c-brand-dark) 0%,
+    #c54fa7 35%,
+    var(--rp-home-hero-secondary-color) 100%
+  );
+  --rp-home-background-bg: radial-gradient(
+      44% 58% at 100% 0%,
+      #f5b7df3d 0%,
+      #ffffff00 100%
+    ),
+    radial-gradient(46% 72% at 52% 0%, #e8bcff33 0%, #ffffff00 100%),
+    radial-gradient(74% 60% at 0% 0%, #d9b2ff2b 0%, #ffffff00 100%),
+    #fff;
+}
+
+:where(html.rp-dark) {
+  --rp-c-brand: #ff5db1;
+  --rp-c-brand-light: #ff87c9;
+  --rp-c-brand-dark: #e84b9f;
+
+  --rp-home-hero-secondary-color: #c79aff;
+  --rp-home-hero-title-color: transparent;
+  --rp-home-hero-title-bg: linear-gradient(
+    90deg,
+    var(--rp-c-brand-dark) 0%,
+    #ff6ab8 35%,
+    var(--rp-home-hero-secondary-color) 100%
+  );
+  --rp-home-background-bg: radial-gradient(
+      40% 54% at 100% 0%,
+      #4b1f464d 0%,
+      #12121200 100%
+    ),
+    radial-gradient(54% 86% at 50% 0%, #2a163a99 0%, #12121200 90%),
+    radial-gradient(120% 90% at 0% 0%, #32205f8f 0%, #12121200 100%),
+    #121214;
+}
