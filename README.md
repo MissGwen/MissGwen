@@ -38,6 +38,9 @@
   <a href="https://github.com/MissGwen/electron-session-proxy">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MissGwen&repo=electron-session-proxy&theme=tokyonight&show_owner=true" />
   </a>
+  <a href="https://github.com/MissGwen/perpetual-calendar">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MissGwen&repo=perpetual-calendar&theme=tokyonight&show_owner=true" />
+  </a>
 </div>
 
 ---
