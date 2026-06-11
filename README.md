@@ -32,17 +32,17 @@
 <h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
-  <a href="https://github.com/MissGwen/perpetual-calendar">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MissGwen&repo=perpetual-calendar&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/MissGwen/nrmrs">
+  <!-- <a href="https://github.com/MissGwen/nrmrs">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MissGwen&repo=nrmrs&theme=tokyonight&show_owner=true" />
-  </a>
+  </a> -->
   <a href="https://github.com/MissGwen/timertasks">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MissGwen&repo=timertasks&theme=tokyonight&show_owner=true" />
   </a>
   <a href="https://github.com/MissGwen/electron-session-proxy">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MissGwen&repo=electron-session-proxy&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/MissGwen/perpetual-calendar">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MissGwen&repo=perpetual-calendar&theme=tokyonight&show_owner=true" />
   </a>
 </div>
 
