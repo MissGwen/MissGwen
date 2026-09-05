@@ -1,0 +1,36 @@
+<svg width="960" height="300" viewBox="0 0 960 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="30" y1="16" x2="920" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11121A"/>
+      <stop offset="1" stop-color="#171329"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(110 40) rotate(38) scale(420 300)">
+      <stop stop-color="#A78BFA" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(880 290) rotate(-142) scale(420 300)">
+      <stop stop-color="#A78BFA" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#C4B5FD" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect x="14" y="14" width="932" height="272" rx="26" fill="url(#bg)" stroke="#343047"/>
+  <rect x="14" y="14" width="932" height="272" rx="26" fill="url(#grid)"/>
+  <rect x="14" y="14" width="932" height="272" rx="26" fill="url(#glow1)"/>
+  <rect x="14" y="14" width="932" height="272" rx="26" fill="url(#glow2)"/>
+
+  <g font-family="Inter, Segoe UI, sans-serif" fill="#5B5378">
+    <text x="58" y="252" font-size="30" font-weight="700" font-family="Consolas, 'Courier New', monospace" transform="rotate(-6 58 252)">&lt;/&gt;</text>
+    <text x="862" y="64" font-size="30" font-weight="700" font-family="Consolas, 'Courier New', monospace" text-anchor="end" transform="rotate(6 862 64)">{ }</text>
+  </g>
+
+  <g text-anchor="middle" font-family="Inter, Segoe UI, sans-serif">
+    <circle cx="372" cy="66" r="3.5" fill="#A78BFA"/>
+    <text x="480" y="71" fill="#AAA3BC" font-size="12" font-weight="600" letter-spacing="2.3">ENGINEERING PROFILE</text>
+    <text x="480" y="158" fill="#F2F0F7" font-size="46" font-weight="700" letter-spacing="-1.2">Web · Desktop · Tooling</text>
+    <text x="480" y="210" fill="#AAA3B8" font-size="16">TypeScript &amp; Node.js across product and native boundaries</text>
+  </g>
+</svg>

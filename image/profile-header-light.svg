@@ -1,0 +1,39 @@
+<svg width="960" height="300" viewBox="0 0 960 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="30" y1="16" x2="920" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FCFCFF"/>
+      <stop offset="1" stop-color="#F4F1FF"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(110 40) rotate(38) scale(420 300)">
+      <stop stop-color="#7657D5" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#7657D5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(880 290) rotate(-142) scale(420 300)">
+      <stop stop-color="#7657D5" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#7657D5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#312E81" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="20" flood-color="#3B2C7D" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect x="14" y="14" width="932" height="272" rx="26" fill="url(#bg)" stroke="#DDD7F5" filter="url(#shadow)"/>
+  <rect x="14" y="14" width="932" height="272" rx="26" fill="url(#grid)"/>
+  <rect x="14" y="14" width="932" height="272" rx="26" fill="url(#glow1)"/>
+  <rect x="14" y="14" width="932" height="272" rx="26" fill="url(#glow2)"/>
+
+  <g font-family="Inter, Segoe UI, sans-serif" fill="#B9AFE3">
+    <text x="58" y="252" font-size="30" font-weight="700" font-family="Consolas, 'Courier New', monospace" transform="rotate(-6 58 252)">&lt;/&gt;</text>
+    <text x="862" y="64" font-size="30" font-weight="700" font-family="Consolas, 'Courier New', monospace" text-anchor="end" transform="rotate(6 862 64)">{ }</text>
+  </g>
+
+  <g text-anchor="middle" font-family="Inter, Segoe UI, sans-serif">
+    <circle cx="372" cy="66" r="3.5" fill="#7657D5"/>
+    <text x="480" y="71" fill="#625B78" font-size="12" font-weight="600" letter-spacing="2.3">ENGINEERING PROFILE</text>
+    <text x="480" y="158" fill="#191724" font-size="46" font-weight="700" letter-spacing="-1.2">Web · Desktop · Tooling</text>
+    <text x="480" y="210" fill="#6B657A" font-size="16">TypeScript &amp; Node.js across product and native boundaries</text>
+  </g>
+</svg>
