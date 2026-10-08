@@ -10,8 +10,6 @@ Hangzhou, China · UTC+8
 
 </div>
 
-<br>
-
 #### Stack
 
 **Languages & runtimes**
@@ -26,8 +24,6 @@ Hangzhou, China · UTC+8
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)](https://redis.io/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
-<br>
-
 #### Focus
 
 - **Architecture and selection** — the infrastructure, the stack, and the schema, decided once and written down.
@@ -35,18 +31,6 @@ Hangzhou, China · UTC+8
 - **Backend** — the service layer and the API contracts around it, kept apart from the controllers that call them.
 - **Engineering conventions** — how a feature is meant to be built here, and the monorepo layout that enforces it.
 
-<br>
-
 #### Elsewhere
 
 [Blog](https://missgwen.github.io/blog) · [GitHub](https://github.com/MissGwen)
-
-<br>
-
-<div align="center">
-
-不懂的东西太多了
-
-没关系 还有时间
-
-</div>
