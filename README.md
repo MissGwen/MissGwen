@@ -1,12 +1,8 @@
 <div align="center">
 
-### Hello, everyone👋
+### Hi, I'm Gwen 👋
 
-`Full-stack engineer` · `TypeScript / Node / Rust / Go`
-
-Hangzhou, China · UTC+8
-
-<!-- <a href="https://missgwen.github.io/blog">Blog</a> · <a href="https://github.com/MissGwen">GitHub</a> -->
+<sub>`Full-stack engineer` · Hangzhou, China · UTC+8</sub>
 
 </div>
 
@@ -26,7 +22,7 @@ Hangzhou, China · UTC+8
 
 #### Focus
 
-- **Architecture and selection** — the infrastructure, the stack, and the schema, decided once and written down.
+- **Architecture and tech selection** — the infrastructure, the stack, and the schema, decided once and written down.
 - **Front-end build output** — choosing the toolchain and configuring it backwards from what the app needs to ship.
 - **Backend** — the service layer and the API contracts around it, kept apart from the controllers that call them.
 - **Engineering conventions** — how a feature is meant to be built here, and the monorepo layout that enforces it.
