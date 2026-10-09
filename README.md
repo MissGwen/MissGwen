@@ -2,7 +2,7 @@
 
 ### Hi, I'm Gwen 👋
 
-<sub>`Full-stack engineer` · Hangzhou, China · UTC+8</sub>
+`Full-stack engineer` · Hangzhou, China · UTC+8
 
 </div>
 
